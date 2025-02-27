@@ -54,10 +54,6 @@ This architecture provides a secure sandbox for AI-generated UIs while maintaini
 - **Accessibility Adaptation** - Generate interfaces optimized for different accessibility needs
 - - **Brand-Aligned Theming** - Automatically generate color schemes that align with brand guidelines while ensuring accessibility
 
-## 📚 Getting Started
-
-Check out our [documentation](https://github.com/yourusername/genaui/wiki) to get started with GenAUI.
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
