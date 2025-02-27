@@ -5,6 +5,7 @@
 GenAUI is a cutting-edge framework for Android that enables AI-driven UI generation using Jetpack Compose. The framework allows AI models to dynamically create beautiful, native Android UIs by describing components and their properties in a structured format.
 
 https://github.com/user-attachments/assets/7a4d2bbc-2441-4a52-89ef-44938a7cf495
+
 <img width="170" alt="Screenshot 2025-02-27 at 7 52 25 PM" src="https://github.com/user-attachments/assets/d9775230-9f79-43bc-92ef-5ee6e6118a23" />
 <img width="170" alt="Screenshot 2025-02-27 at 7 53 25 PM" src="https://github.com/user-attachments/assets/ef8ca6e7-377f-4008-a578-b24d20c94f84" />
 
