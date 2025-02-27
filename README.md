@@ -7,6 +7,8 @@ GenAUI is a cutting-edge framework for Android that enables AI-driven UI generat
 https://github.com/user-attachments/assets/7a4d2bbc-2441-4a52-89ef-44938a7cf495
 
 <img width="170" alt="Screenshot 2025-02-27 at 7 52 25 PM" src="https://github.com/user-attachments/assets/d9775230-9f79-43bc-92ef-5ee6e6118a23" />
+<img width="170" alt="Screenshot 2025-02-27 at 8 05 25 PM" src="https://github.com/user-attachments/assets/fd20be6b-c536-427a-8e1e-fdfb9691d2b4" />
+<img width="170" alt="Screenshot 2025-02-27 at 8 06 55 PM" src="https://github.com/user-attachments/assets/61d9db28-e481-4d12-88b0-9e0dabdbd7ee" />
 <img width="170" alt="Screenshot 2025-02-27 at 7 53 25 PM" src="https://github.com/user-attachments/assets/ef8ca6e7-377f-4008-a578-b24d20c94f84" />
 
 ## 🚧 Project Status
