@@ -9,6 +9,7 @@ https://github.com/user-attachments/assets/7a4d2bbc-2441-4a52-89ef-44938a7cf495
 <img width="170" alt="Screenshot 2025-02-27 at 7 52 25 PM" src="https://github.com/user-attachments/assets/d9775230-9f79-43bc-92ef-5ee6e6118a23" />
 <img width="170" alt="Screenshot 2025-02-27 at 8 05 25 PM" src="https://github.com/user-attachments/assets/fd20be6b-c536-427a-8e1e-fdfb9691d2b4" />
 <img width="170" alt="Screenshot 2025-02-27 at 8 06 55 PM" src="https://github.com/user-attachments/assets/61d9db28-e481-4d12-88b0-9e0dabdbd7ee" />
+<img width="170" alt="Screenshot 2025-02-27 at 8 15 55 PM" src="https://github.com/user-attachments/assets/f13d8379-7367-4ae6-aa53-850b2db76b04" />
 <img width="170" alt="Screenshot 2025-02-27 at 7 53 25 PM" src="https://github.com/user-attachments/assets/ef8ca6e7-377f-4008-a578-b24d20c94f84" />
 
 ## 🚧 Project Status
@@ -22,6 +23,8 @@ https://github.com/user-attachments/assets/7a4d2bbc-2441-4a52-89ef-44938a7cf495
 - **Type-Safe Component Registry** - Securely register and manage UI components
 - **Annotation Processing** - Reduce boilerplate with KSP-powered code generation
 - **Composable-First Architecture** - Built around Jetpack Compose for modern UI development
+- - **Smart Color Scheme Generation** - Automatically generate harmonious and accessible color palettes for UI components
+
 
 ## 🏗️ Architecture
 
@@ -49,6 +52,7 @@ This architecture provides a secure sandbox for AI-generated UIs while maintaini
 - **Personalized Experiences** - Create custom interfaces tailored to individual users
 - **Rapid Prototyping** - Quickly generate and test different UI variations
 - **Accessibility Adaptation** - Generate interfaces optimized for different accessibility needs
+- - **Brand-Aligned Theming** - Automatically generate color schemes that align with brand guidelines while ensuring accessibility
 
 ## 📚 Getting Started
 
